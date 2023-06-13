@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FreshDream_Homepage/static/css/main.073c9b0a.css",
+    "main.js": "/FreshDream_Homepage/static/js/main.61980c3d.js",
+    "static/js/787.b3de4b68.chunk.js": "/FreshDream_Homepage/static/js/787.b3de4b68.chunk.js",
+    "static/media/logo.svg": "/FreshDream_Homepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FreshDream_Homepage/index.html",
+    "main.073c9b0a.css.map": "/FreshDream_Homepage/static/css/main.073c9b0a.css.map",
+    "main.61980c3d.js.map": "/FreshDream_Homepage/static/js/main.61980c3d.js.map",
+    "787.b3de4b68.chunk.js.map": "/FreshDream_Homepage/static/js/787.b3de4b68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.61980c3d.js"
+  ]
+}
